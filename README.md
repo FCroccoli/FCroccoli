@@ -2,6 +2,7 @@
 
 - 🔭 No momento estou trabalhando um site/app utilizando React e Express focado em organizar e sessoes e jogos de RPG
 - 🌱 Meu principal interesse de estudos no momento e Vue.js
+- ⚡ Curiosidade: Ja estudei Musica, Ingles, Educacao Fisica e Design de Jogos
 
 [![FCroccoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCroccoli&theme=transparent)](https://github.com/FCroccoli/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCroccoli&theme=transparent)](https://github.com/FCroccoli/github-readme-stats)
