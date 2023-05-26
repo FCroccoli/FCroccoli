@@ -1,5 +1,7 @@
 ### Oi! Eu sou o Fernando Croccoli
 
+[![FCroccoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCroccoli)](https://github.com/FCroccoli/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
