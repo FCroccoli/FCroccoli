@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Fernando Croccoli
 
 - Desenvolvedor Fullstack
-- 🔭 No momento estou trabalhando um site/app utilizando React e Express focado em organizar e sessoes e jogos de RPG
+- 🔭 No momento estou trabalhando em um site/app utilizando React e Express focado em organizar sessoes e jogos de RPG
 - 🌱 Meu principal interesse de estudos no momento e Next.js
 - ⚡ Curiosidade: Ja estudei Musica, Ingles, Educacao Fisica e Design de Jogos
 
